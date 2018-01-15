@@ -1,0 +1,1 @@
+DIR *.*  /B >001LIST.TXT
